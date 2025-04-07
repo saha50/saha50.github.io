@@ -31,6 +31,6 @@ latest_posts:
 
 Hi, I am a Ph.D. Candidate in Agricultural Economics at Purdue University, specializing in international development and gender. My thesis research examines the implications of strategic interactions between couples for household risk exposure and the gendered effects of structural transformation on rural labor markets. Beyond this, my research has explored the effects of gender-based inequities on farm labor productivity and the role of social norms as a mechanism explaining the penalty in female labor market outcomes following marriage.
 
-My work with Dr. Kajal Gulati, "Women’s Work and Agricultural Productivity Gaps in India" (forthcoming in the American Journal of Agricultural Economics) has been recognized with the Uma Lele Prize for Best Contributed Paper on Gender at the International Conference for Agricultural Economics, 2024.
+My work with Drs. Kajal Gulati and Travis Lybbert, "Women’s Work and Agricultural Productivity Gaps in India" (American Journal of Agricultural Economics) has been recognized with the Uma Lele Prize for Best Contributed Paper on Gender at the International Conference for Agricultural Economics, 2024.
 
 
