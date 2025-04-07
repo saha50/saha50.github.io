@@ -18,7 +18,7 @@ layout: default
             class="float-right"
             title="{{ site.first_name }} {{ site.last_name }}'s CV"
           >
-            <i class="fa-regular fa-file-pdf"></i>
+            <i class="fa-regular fa-file-pdf fa-2x"></i>
           </a>
         {% endif %}
       </h1>
@@ -33,35 +33,33 @@ layout: default
             <a class="anchor" id="{{ data[0] | slugify }}"></a>
             <div class="card mt-3 p-3">
               {% assign section_key = data[0] %}
-              
-              {% if section_key == "basics" %}
-                <h3 class="card-title font-weight-bold">Profile</h3>
-              {% elsif section_key == "awards" %}
-                <h3 class="card-title font-weight-bold">Honors & Awards</h3>
-              {% elsif section_key == "work" %}
-                <h3 class="card-title font-weight-bold">Work Experience</h3>
-              {% elsif section_key == "education" %}
-                <h3 class="card-title font-weight-bold">Education</h3>
-              {% elsif section_key == "skills" %}
-                <h3 class="card-title font-weight-bold">Skills</h3>
-              {% elsif section_key == "publications" %}
-                <h3 class="card-title font-weight-bold">Papers</h3>
-              {% elsif section_key == "projects" %}
-                <h3 class="card-title font-weight-bold">Projects</h3>
-              {% elsif section_key == "volunteer" %}
-                <h3 class="card-title font-weight-bold">Volunteer</h3>
-              {% elsif section_key == "interests" %}
-                <h3 class="card-title font-weight-bold">Interests</h3>
-              {% elsif section_key == "certificates" %}
-                <h3 class="card-title font-weight-bold">Certifications</h3>
-              {% elsif section_key == "languages" %}
-                <h3 class="card-title font-weight-bold">Languages</h3>
-              {% elsif section_key == "references" %}
-                <h3 class="card-title font-weight-bold">References</h3>
-              {% else %}
+                {% if section_key == "basics" %}
+                  <h3 class="card-title">Profile</h3>
+                {% elsif section_key == "awards" %}
+                  <h3 class="card-title">Honors & Awards</h3>
+                {% elsif section_key == "work" %}
+                  <h3 class="card-title">Work Experience</h3>
+                {% elsif section_key == "education" %}
+                  <h3 class="card-title">Education</h3>
+                {% elsif section_key == "skills" %}
+                  <h3 class="card-title">Skills</h3>
+                {% elsif section_key == "publications" %}
+                  <h3 class="card-title">Publications</h3>
+                {% elsif section_key == "projects" %}
+                  <h3 class="card-title">Projects</h3>
+                {% elsif section_key == "volunteer" %}
+                  <h3 class="card-title">Volunteer Experience</h3>
+                {% elsif section_key == "interests" %}
+                  <h3 class="card-title">Specializations & Interests</h3>
+                {% elsif section_key == "certificates" %}
+                  <h3 class="card-title">Certifications</h3>
+                {% elsif section_key == "languages" %}
+                  <h3 class="card-title">Languages</h3>
+                {% elsif section_key == "references" %}
+                  <h3 class="card-title">References</h3>
+                {% else %}
                 <h3 class="card-title font-weight-bold">{{ section_key | capitalize }}</h3>
               {% endif %}
-              
               <div>
               {% if entry.type == 'list' %}
                 {% include cv/list.liquid %}
@@ -99,7 +97,7 @@ layout: default
             class="float-right"
             title="{{ site.first_name }} {{ site.last_name }}'s CV"
           >
-            <i class="fa-regular fa-file-pdf"></i>
+            <i class="fa-regular fa-file-pdf fa-2x"></i>
           </a>
         {% endif %}
       </h1>
@@ -123,32 +121,31 @@ layout: default
             <a class="anchor" id="{{ data[0] | slugify }}"></a>
             <div class="card mt-3 p-3">
               {% assign section_key = data[0] %}
-              
-              {% if section_key == "basics" %}
-                <h3 class="card-title font-weight-bold">Profile</h3>
-              {% elsif section_key == "awards" %}
-                <h3 class="card-title font-weight-bold">Honors & Awards</h3>
-              {% elsif section_key == "work" %}
-                <h3 class="card-title font-weight-bold">Work Experience</h3>
-              {% elsif section_key == "education" %}
-                <h3 class="card-title font-weight-bold">Education</h3>
-              {% elsif section_key == "skills" %}
-                <h3 class="card-title font-weight-bold">Skills</h3>
-              {% elsif section_key == "publications" %}
-                <h3 class="card-title font-weight-bold">Papers</h3>
-              {% elsif section_key == "projects" %}
-                <h3 class="card-title font-weight-bold">Projects</h3>
-              {% elsif section_key == "volunteer" %}
-                <h3 class="card-title font-weight-bold">Volunteer</h3>
-              {% elsif section_key == "interests" %}
-                <h3 class="card-title font-weight-bold">Interests</h3>
-              {% elsif section_key == "certificates" %}
-                <h3 class="card-title font-weight-bold">Certifications</h3>
-              {% elsif section_key == "languages" %}
-                <h3 class="card-title font-weight-bold">Languages</h3>
-              {% elsif section_key == "references" %}
-                <h3 class="card-title font-weight-bold">References</h3>
-              {% else %}
+                {% if section_key == "basics" %}
+                  <h3 class="card-title">Profile</h3>
+                {% elsif section_key == "awards" %}
+                  <h3 class="card-title">Honors & Awards</h3>
+                {% elsif section_key == "work" %}
+                  <h3 class="card-title">Work Experience</h3>
+                {% elsif section_key == "education" %}
+                  <h3 class="card-title">Education</h3>
+                {% elsif section_key == "skills" %}
+                  <h3 class="card-title">Skills</h3>
+                {% elsif section_key == "publications" %}
+                  <h3 class="card-title">Publications</h3>
+                {% elsif section_key == "projects" %}
+                  <h3 class="card-title">Projects</h3>
+                {% elsif section_key == "volunteer" %}
+                  <h3 class="card-title">Volunteer Experience</h3>
+                {% elsif section_key == "interests" %}
+                  <h3 class="card-title">Specializations & Interests</h3>
+                {% elsif section_key == "certificates" %}
+                  <h3 class="card-title">Certifications</h3>
+                {% elsif section_key == "languages" %}
+                  <h3 class="card-title">Languages</h3>
+                {% elsif section_key == "references" %}
+                  <h3 class="card-title">References</h3>
+                {% else %}
                 <h3 class="card-title font-weight-bold">{{ section_key | capitalize }}</h3>
               {% endif %}
               
@@ -187,4 +184,26 @@ layout: default
       </div>
     </article>
   </div>
+
+  <!-- Add link icons to all links in title elements -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Find all links in title elements within the CV
+      const titleLinks = document.querySelectorAll('.cv .title a[href], .cv td.list-group-category a[href], .cv .list-group-name a[href]');
+      
+      // Add link icon to each link that has a URL
+      titleLinks.forEach(function(link) {
+        // Skip if it already has the icon
+        if (!link.querySelector('.link-icon')) {
+          const icon = document.createElement('i');
+          icon.className = 'fa-solid fa-arrow-up-right-from-square link-icon';
+          link.appendChild(icon);
+          
+          // Make sure there's a space before the icon
+          const textNode = document.createTextNode(' ');
+          link.insertBefore(textNode, icon);
+        }
+      });
+    });
+  </script>
 {% endunless %}

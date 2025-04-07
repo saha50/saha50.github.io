@@ -1,20 +1,16 @@
 {
   "basics": {
-    "name": "Koustuv Saha",
-    "label": "Researcher in Agricultural Economics",
-    "image": "",
-    "email": "saha50@purdue.edu",
-    "phone": "+1 765-746-9379",
-    "url": "",
-    "summary": "PhD Candidate in Agricultural Economics at Purdue University, with research focused on the role of strategic interactions and information frictions in intrahousehold decision-making, the impacts of structural transformation on the rural economy,  and gendered structures in rural labor markets.",
+    "Name": "Koustuv Saha",
+    "Email": "saha50@purdue.edu",
+    "CV": "",
+    "Interest": "PhD Candidate in Agricultural Economics at Purdue University, with research focused on the role of strategic interactions and information frictions in intrahousehold decision-making, the impacts of structural transformation on the rural economy, and gendered structures in rural labor markets.",
     "location": {
       "address": "Department of Agricultural Economics, Purdue University",
       "postalCode": "47907",
       "city": "West Lafayette",
       "countryCode": "US",
       "region": "Indiana"
-    },
-    "profiles": []
+    }
   },
   "work": [
     {
@@ -53,8 +49,8 @@
       "studyType": "Ph.D.",
       "startDate": "2021",
       "endDate": "Present",
-      "specialization": [
-        "International Development, Experimental Economics, Behavioral Economics"
+      "courses": [
+        "Specialization: International Development, Experimental Economics, Behavioral Economics"
       ]
     },
     {
@@ -79,6 +75,43 @@
       "endDate": "2014"
     }
   ],
+  "publications": [
+    {
+      "name": "Women’s Work and Agricultural Productivity Gaps in India",
+      "releaseDate": "2024-08",
+      "authors": "Kajal Gulati, Koustuv Saha, Travis J. Lybbert",
+      "summary": "Forthcoming in American Journal of Agricultural Economics",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "name": "Gender Role Attitudes and Female Labour Participation: Evidence from Egypt",
+      "releaseDate": "2024",
+      "authors": "Koustuv Saha, Kajari Saha, Shraddha Yadav",
+      "summary": "Working paper, forthcoming",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "name": "Agricultural Mechanization and Gendered Structural Transformation in India",
+      "releaseDate": "2024",
+      "authors": "Koustuv Saha, Kajal Gulati, Sam Bird",
+      "summary": "Working paper, forthcoming",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "name": "Strategy and Coordintion in Risky Household Decisions: Evidence from Bangaldesh",
+      "releaseDate": "2024",
+      "authors": "Koustuv Saha",
+      "summary": "JMP",
+      "url": ""
+    },
+    {
+      "name": "Women’s Land Ownership and Household Decisions: Implications for Child Health in Rural India",
+      "releaseDate": "2023-05",
+      "authors": "Koustuv Saha, Vijay Laxmi Pandey, S. Mahendra Dev",
+      "summary": "Published book chapter",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:d1gkVwhDpl0C"
+    }
+  ],
   "awards": [
     {
       "title": "Uma Lele Prize for Best Contributed Paper on Gender",
@@ -90,7 +123,7 @@
       "title": "Ludwig Kruhe Fellowship",
       "date": "2024",
       "awarder": "Purdue University",
-      "amount": "$68,766.15 USD"
+      "summary": "$68,766.15 USD"
     },
     {
       "title": "Junior Research Fellowship",
@@ -146,43 +179,6 @@
     {
       "name": "<a href='https://www.colindsullivan.com/' target='_blank'>Dr. Colin D. Sullivan</a>",
       "reference": "Assistant Professor, University of Pittsburgh – Ph.D. Committee member"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Women’s Work and Agricultural Productivity Gaps in India",
-      "releaseDate": "2024-08",
-      "authors": "Kajal Gulati, Koustuv Saha, Travis J. Lybbert",
-      "summary": "Forthcoming in American Journal of Agricultural Economics",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:2osOgNQ5qMEC"
-    },
-    {
-      "name": "Gender Role Attitudes and Female Labour Participation: Evidence from Egypt",
-      "releaseDate": "2024",
-      "authors": "Koustuv Saha, Kajari Saha, Shraddha Yadav",
-      "summary": "Working paper, forthcoming",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:u-x6o8ySG0sC"
-    },
-    {
-      "name": "Agricultural Mechanization and Gendered Structural Transformation in India",
-      "releaseDate": "2024",
-      "authors": "Koustuv Saha, Kajal Gulati, Sam Bird",
-      "summary": "Working paper, forthcoming",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:u5HHmVD_uO8C"
-    },
-    {
-      "name": "Strategy and Coordintion in Risky Household Decisions: Evidence from Bangaldesh",
-      "releaseDate": "2024",
-      "authors": "Koustuv Saha",
-      "summary": "JMP",
-      "url": ""
-    },
-    {
-      "name": "Women’s Land Ownership and Household Decisions: Implications for Child Health in Rural India",
-      "releaseDate": "2023-05",
-      "authors": "Koustuv Saha, Vijay Laxmi Pandey, S. Mahendra Dev",
-      "summary": "Published book chapter",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:d1gkVwhDpl0C"
     }
   ]
 }
