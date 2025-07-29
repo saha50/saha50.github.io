@@ -18,35 +18,40 @@
       "position": "Postdoctoral Researcher",
       "location": "Sharjah, UAE",
       "startDate": "2025",
-      "endDate": "Present"
+      "endDate": "Present",
+      "url": ""
     },
     {
       "name": "Purdue University",
       "position": "Graduate Research Assistant to Dr. Jacob Ricker-Gilbert",
       "location": "West Lafayette, IN, USA",
       "startDate": "2024",
-      "endDate": "2025"
+      "endDate": "2025",
+      "url": ""
     },
     {
       "name": "Purdue University",
       "position": "Graduate Research Assistant to Dr. Kajal Gulati",
       "location": "West Lafayette, IN, USA",
       "startDate": "2021",
-      "endDate": "2023"
+      "endDate": "2023",
+      "url": ""
     },
     {
       "name": "Indira Gandhi Institute of Development Research",
       "position": "Research Associate to Drs. Subrata and Jayati Sarkar",
       "location": "Mumbai, India",
       "startDate": "2019",
-      "endDate": "2020"
+      "endDate": "2020",
+      "url": ""
     },
     {
       "name": "Indira Gandhi Institute of Development Research",
       "position": "Research Assistant to Dr. Subrata Sarkar",
       "location": "Mumbai, India",
       "startDate": "2017",
-      "endDate": "2019"
+      "endDate": "2019",
+      "url": ""
     }
   ],
   "education": [
@@ -58,28 +63,32 @@
       "endDate": "July 2025",
       "courses": [
         "Specialization: Development Economics, Experimental Economics, Behavioral Economics"
-      ]
+      ],
+      "url": ""
     },
     {
       "institution": "Indira Gandhi Institute of Development Research",
       "area": "Development Studies",
       "studyType": "M.Phil.",
       "startDate": "2017",
-      "endDate": "2019"
+      "endDate": "2019",
+      "url": ""
     },
     {
       "institution": "University of Calcutta",
       "area": "Economics",
       "studyType": "M.Sc.",
       "startDate": "2014",
-      "endDate": "2016"
+      "endDate": "2016",
+      "url": ""
     },
     {
       "institution": "University of Calcutta",
       "area": "Economics",
       "studyType": "B.Sc.",
       "startDate": "2011",
-      "endDate": "2014"
+      "endDate": "2014",
+      "url": ""
     }
   ],
   "publications": [
