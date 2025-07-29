@@ -1,24 +1,31 @@
 {
   "basics": {
     "Name": "Koustuv Saha",
-    "Email": "saha50@purdue.edu",
+    "Email": "ksaha@aus.edu",
     "CV": "",
-    "Interest": "PhD in Agricultural Economics at Purdue University, with research focused on the role of strategic interactions and information frictions in intrahousehold decision-making, the impacts of structural transformation on the rural economy, and gendered structures in rural labor markets.",
+    "Interest": "Intrahousehold decisions, risk preferencces, gender norms, structural transformation, agricultural mechanization, labor markets, choice experiments, indigenous beliefs, religious beliefs, environmental conservation",
     "location": {
-      "address": "Department of Agricultural Economics, Purdue University",
-      "postalCode": "47907",
-      "city": "West Lafayette",
-      "countryCode": "US",
-      "region": "Indiana"
+      "address": "Department of Economics, American University of Sharjah",
+      "postalCode": "26666",
+      "city": "University City",
+      "countryCode": "UAE",
+      "region": "Sharjah"
     }
   },
   "work": [
+    {
+      "name": "AMerican University of Sharjah",
+      "position": "Postdoctoral Researcher",
+      "location": "Sharjah, UAE",
+      "startDate": "2025",
+      "endDate": "Present"
+    },
     {
       "name": "Purdue University",
       "position": "Graduate Research Assistant to Dr. Jacob Ricker-Gilbert",
       "location": "West Lafayette, IN, USA",
       "startDate": "2024",
-      "endDate": "Present"
+      "endDate": "2025"
     },
     {
       "name": "Purdue University",
@@ -50,7 +57,7 @@
       "startDate": "Aug 2021",
       "endDate": "July 2025",
       "courses": [
-        "Specialization: International Development, Experimental Economics, Behavioral Economics"
+        "Specialization: Development Economics, Experimental Economics, Behavioral Economics"
       ]
     },
     {
@@ -79,8 +86,8 @@
     {
       "name": "Women’s Work and Agricultural Productivity Gaps in India",
       "releaseDate": "2024-08",
-      "authors": "Kajal Gulati, Koustuv Saha, Travis J. Lybbert",
-      "summary": "Forthcoming in American Journal of Agricultural Economics",
+      "authors": "Kajal Gulati, <b>Koustuv Saha</b>, Travis J. Lybbert",
+      "summary": "American Journal of Agricultural Economics",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A8wzNe8AAAAJ&citation_for_view=A8wzNe8AAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -144,12 +151,7 @@
       "name": "Programming & Statistical Software",
       "icon": "fas fa-code",
       "keywords": [
-        "STATA",
-        "R",
-        "Matlab",
-        "GAMS",
-        "RunGTAP",
-        "Julia"
+        " I primarily use STATA for statistical analysis. I use R or Python for web scraping data, data manipulation, and mathematical programming. I have used GAMS, RunGTAP, MATLAB, and Julia for earlier porjects."
       ]
     }
   ],
