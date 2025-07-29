@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Ph.D. in Agricultural Economics, Purdue University, USA <br>  
-Contact: <a href='mailto:saha50@purdue.edu'>saha50@purdue.edu</a> <br>  
+subtitle: "Postdoctoral Researcher, American University of Sharjah, UAE <br>  
+Contact: <a href='mailto:ksaha@aus.edu'>ksaha@aus.edu</a> <br>  
 LinkedIn: <a href='http://www.linkedin.com/in/koustuv-saha-71b284b6' target='_blank'>Koustuv Saha</a>"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Prof_pic_3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>KRAN #632</p>
