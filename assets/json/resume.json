@@ -62,7 +62,11 @@
       "startDate": "Aug 2021",
       "endDate": "July 2025",
       "courses": [
+<<<<<<< HEAD
         "Specialization: Development Economics, Experimental Economics, Behavioral Economics",
+=======
+        "Specialization: Development Economics, Experimental Economics, Behavioral Economics"
+>>>>>>> parent of 80797e5 (Update resume.json)
       ],
       "url": ""
     },
