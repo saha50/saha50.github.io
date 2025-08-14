@@ -8,7 +8,7 @@ LinkedIn: <a href='http://www.linkedin.com/in/koustuv-saha-71b284b6' target='_bl
 
 profile:
   align: right
-  image: Prof_pic_3.jpg
+  image: Prof_pic_3.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>KRAN #632</p>
